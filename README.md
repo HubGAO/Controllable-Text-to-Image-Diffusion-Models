@@ -1,3 +1,3 @@
-# 可控图像生成
+# Controllable-Text-to-Image-Diffusion-Models
 
-用于可控图像生成相关代码、实验与文档。
+Code, experiments, and notes for controllable text-to-image diffusion models.
